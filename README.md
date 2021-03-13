@@ -4,7 +4,7 @@
  - 
  
 ## Лабы:
- - [1 лабараторная](labs\1lab\1lab_IS.ipynb)
+ - [1 лабараторная](https://github.com/KrimsN/IS/blob/master/labs/1lab/1lab_IS.ipynb)
 
 ## Парктики:
  - [1 практика](1_pract.md)
